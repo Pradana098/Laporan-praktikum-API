@@ -1,5 +1,10 @@
 # Laporan praktikum
 
+NAMA : Dimas Januar Pradana
+
+KELAS : 2A TRPL
+
+NIM : 362358302077
 
 ## Pada file tarikdata.php
 
